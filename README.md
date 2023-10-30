@@ -1,6 +1,6 @@
 # ESP32
 
-# ESP32 README
+## ESP32 Pinout 
 
 ![image](https://github.com/AK0561/ESP32/assets/97022114/e487549e-6906-4de8-87ab-f614bfffa736)
 
